@@ -108,8 +108,6 @@ public class YumingServiceTest {
             yumingService.long2Short("www.sohhhhhhhh.ddd.eee.aaa67.com");
             yumingService.long2Short("www.sohhhhhhhh.ddd.eee.aaa67.com");
 
-
-
         } catch (Exception e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
